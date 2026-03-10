@@ -28,4 +28,4 @@ Das Net-Monitor-Tool ermöglicht die Überwachung des Netzwerkverkehrs und die B
 
 Das Net-Monitor-Tool bietet eine einfache Möglichkeit, den Netzwerkverkehr zu überwachen und auf potenzielle Probleme oder ungewöhnliche Aktivitäten hinzuweisen. Es kann in verschiedenen Szenarien nützlich sein, z. B. zur Überwachung der Netzwerkauslastung in Heimnetzwerken, Büroumgebungen oder kleinen Unternehmen.
 
-(C) 2023 Manuel Person "OpenPI Projekt"
+(C) 2023 Manuel Person 
